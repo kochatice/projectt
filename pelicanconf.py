@@ -4,13 +4,13 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Mustafa Ray'
 SITENAME = u'Mustafa Ray'
-SITEURL = 'https://kochatice.github.io'
+SITEURL = 'projectt'
 
 PATH = 'content'
 
 TIMEZONE = 'America/Los_Angeles'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
